@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f786326-fc7c-45bd-a6c8-a67f933f3a7e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/explorers.html" afterPath="$PROJECT_DIR$/explorers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mission.html" afterPath="$PROJECT_DIR$/mission.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources.html" afterPath="$PROJECT_DIR$/resources.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/faq.html" afterPath="$PROJECT_DIR$/resources/faq.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/support.html" afterPath="$PROJECT_DIR$/support.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tours/tour_detail_backpack.html" afterPath="$PROJECT_DIR$/tours/tour_detail_backpack_cal.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tours.html" afterPath="$PROJECT_DIR$/tours.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tours/tour_detail_backpack.html" afterPath="$PROJECT_DIR$/tours/tour_detail_backpack.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tours/tour_detail_bigsur.html" afterPath="$PROJECT_DIR$/tours/tour_detail_bigsur.html" />
     </list>
     <ignored path="explore_california.iws" />
@@ -68,7 +61,35 @@
     <favorites_list name="explore_california" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="tours.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tours.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="80" column="468" selection-start="5176" selection-end="5176" vertical-scroll-proportion="-4.2083335">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tour_detail_bigsur.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tours/tour_detail_bigsur.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="63" column="49" selection-start="3412" selection-end="3412" vertical-scroll-proportion="-5.7916665">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tour_detail_backpack_cal.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tours/tour_detail_backpack_cal.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="65" column="48" selection-start="3388" selection-end="3388" vertical-scroll-proportion="0.6052632">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -87,13 +108,15 @@
         <option value="$PROJECT_DIR$/mission.html" />
         <option value="$PROJECT_DIR$/resources.html" />
         <option value="$PROJECT_DIR$/support.html" />
-        <option value="$PROJECT_DIR$/tours.html" />
         <option value="$PROJECT_DIR$/resources/faq.html" />
         <option value="$PROJECT_DIR$/tours/tour_detail_backpack.html" />
+        <option value="$PROJECT_DIR$/tours.html" />
         <option value="$PROJECT_DIR$/tours/tour_detail_bigsur.html" />
+        <option value="$PROJECT_DIR$/tours/tour_detail_backpack_cal.html" />
       </list>
     </option>
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="119" />
     <option name="y" value="40" />
@@ -329,14 +352,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="119" y="40" width="1140" height="669" extended-state="0" />
-    <editor active="false" />
+    <frame x="119" y="40" width="1140" height="669" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32846716" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32846716" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -348,7 +371,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24954297" sideWeight="0.67153287" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24954297" sideWeight="0.67153287" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -437,23 +460,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tours.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="166" column="43" selection-start="13071" selection-end="13071" vertical-scroll-proportion="-6.1666665">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/faq.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="307" column="45" selection-start="23223" selection-end="23223" vertical-scroll-proportion="-5.5416665">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tours/tour_detail_backpack.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="166" column="43" selection-start="11441" selection-end="11441" vertical-scroll-proportion="-4.625">
           <folding />
         </state>
       </provider>
@@ -479,9 +488,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tours.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="468" selection-start="5176" selection-end="5176" vertical-scroll-proportion="-4.2083335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tours/tour_detail_bigsur.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="43" selection-start="8016" selection-end="8016" vertical-scroll-proportion="0.5971074">
+        <state line="63" column="49" selection-start="3412" selection-end="3412" vertical-scroll-proportion="-5.7916665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tours/tour_detail_backpack_cal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="48" selection-start="3388" selection-end="3388" vertical-scroll-proportion="0.6052632">
           <folding />
         </state>
       </provider>
