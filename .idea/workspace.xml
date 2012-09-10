@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2f786326-fc7c-45bd-a6c8-a67f933f3a7e" name="Default" comment="">
       <change type="MOVED" beforePath="$PROJECT_DIR$/tours/tour_detail_backpack.html" afterPath="$PROJECT_DIR$/tours/tour_detail_backpack_cal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tours.html" afterPath="$PROJECT_DIR$/tours.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tours/tour_detail_bigsur.html" afterPath="$PROJECT_DIR$/tours/tour_detail_bigsur.html" />
     </list>
@@ -71,19 +73,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tour_detail_bigsur.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tours/tour_detail_bigsur.html">
+      <file leaf-file-name="contact.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="49" selection-start="3412" selection-end="3412" vertical-scroll-proportion="-5.7916665">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tour_detail_backpack_cal.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tours/tour_detail_backpack_cal.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="48" selection-start="3388" selection-end="3388" vertical-scroll-proportion="0.6052632">
+            <state line="209" column="92" selection-start="11084" selection-end="11084" vertical-scroll-proportion="0.33093524">
               <folding />
             </state>
           </provider>
@@ -102,7 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/explorers.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/mission.html" />
@@ -113,6 +105,7 @@
         <option value="$PROJECT_DIR$/tours.html" />
         <option value="$PROJECT_DIR$/tours/tour_detail_bigsur.html" />
         <option value="$PROJECT_DIR$/tours/tour_detail_backpack_cal.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
       </list>
     </option>
   </component>
@@ -352,7 +345,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="119" y="40" width="1140" height="669" extended-state="1" />
+    <frame x="119" y="40" width="1140" height="669" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -439,13 +432,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="272" column="43" selection-start="14430" selection-end="14430" vertical-scroll-proportion="0.40789473">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/explorers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="133" column="43" selection-start="8134" selection-end="8134" vertical-scroll-proportion="0.4868421">
@@ -488,6 +474,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tours/tour_detail_backpack_cal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="48" selection-start="3388" selection-end="3388" vertical-scroll-proportion="0.6052632">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tours/tour_detail_bigsur.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="49" selection-start="3412" selection-end="3412" vertical-scroll-proportion="0.45723686">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tours.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="80" column="468" selection-start="5176" selection-end="5176" vertical-scroll-proportion="-4.2083335">
@@ -495,16 +495,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tours/tour_detail_bigsur.html">
+    <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="49" selection-start="3412" selection-end="3412" vertical-scroll-proportion="-5.7916665">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tours/tour_detail_backpack_cal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="48" selection-start="3388" selection-end="3388" vertical-scroll-proportion="0.6052632">
+        <state line="209" column="92" selection-start="11084" selection-end="11084" vertical-scroll-proportion="0.33093524">
           <folding />
         </state>
       </provider>
